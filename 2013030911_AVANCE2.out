@@ -1,0 +1,36 @@
+\BOOKMARK [1][-]{section.1}{C\341lculo de errores}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Error verdadero}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Error relativo porcentual verdadero}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Error porcentual aproximado}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Errores de redondeo debido a codificaci\363n de n\372meros}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Coma fija}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Coma flotante}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Error de redondeo}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Errores de truncamiento}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Series de Taylor}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Errores de truncamiento}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Diferenciaci\363n Num\351rica}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Hacia Adelante}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Hacia Atr\341s}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Centrada}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Derivadas superiores}{subsection.3.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Propagaci\363n del error}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Estabilidad y condici\363n}{subsection.3.4}% 18
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Error num\351rico total \(Diferencias centradas\)}{subsection.3.4}% 19
+\BOOKMARK [1][-]{section.4}{Ra\355ces de ecuaciones}{}% 20
+\BOOKMARK [2][-]{subsection.4.1}{M\351todos cerrados}{section.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.1.1}{M\351todo de bisecci\363n}{subsection.4.1}% 22
+\BOOKMARK [3][-]{subsubsection.4.1.2}{M\351todo de interpolaci\363n lineal}{subsection.4.1}% 23
+\BOOKMARK [2][-]{subsection.4.2}{M\351todos abiertos}{section.4}% 24
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Iteraci\363n de punto fijo}{subsection.4.2}% 25
+\BOOKMARK [3][-]{subsubsection.4.2.2}{M\351todo Newton-Raphson}{subsection.4.2}% 26
+\BOOKMARK [3][-]{subsubsection.4.2.3}{M\351todo de la secante}{subsection.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.3}{M\351todos mixtos}{section.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Interpolaci\363n cuadr\341tica}{subsection.4.3}% 29
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Interpolaci\363n inversa cuadr\341tica}{subsection.4.3}% 30
+\BOOKMARK [2][-]{subsection.4.4}{Ra\355ces de polinomios}{section.4}% 31
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Defliaci\363n polinomial}{subsection.4.4}% 32
+\BOOKMARK [3][-]{subsubsection.4.4.2}{M\351todo de M\374ller}{subsection.4.4}% 33
+\BOOKMARK [1][-]{section.5}{Optimizaci\363n unidimensional}{}% 34
+\BOOKMARK [2][-]{subsection.5.1}{M\351todo cerrado}{section.5}% 35
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Secci\363n dorada}{subsection.5.1}% 36
